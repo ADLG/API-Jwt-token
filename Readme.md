@@ -1,4 +1,4 @@
-En este repositorio se encuentra el Proyecto Spring Boot que implementa JWT y Spring Security para el registro e inicio de sesión con un token usando Postman con MariaDB en Spring Boot:
+En este repositorio se encuentra el Proyecto que implementa JWT y Spring Security para el registro e inicio de sesión con un token usando Postman con MariaDB en Spring Boot:
 -
 ## ***API con JWT y Spring Security en Spring Boot***
 
